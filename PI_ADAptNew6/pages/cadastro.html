@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/cadastro.css">
+    <link rel="shortcut icon" href="./img/logo_simbolo.svg">
+    <title>ADAPT - Cadastre-se</title>
+</head>
+<body>
+    <main>
+        <div class="form">
+            <p>Cadastre-se</p>
+            <form action="" method="POST">
+                <input class="nome" type="text" placeholder="Nome">
+    
+                <input class="email" type="email" placeholder="E-mail">
+    
+                <input class="senha" type="password" placeholder="Crie sua senha">
+    
+                <input class="csenha" type="password" placeholder="Confirme sua senha">
+            </form>
+    
+            <div class="interesse">
+                <label class="opcao" for="opcao">Escolha uma opção de interesse:</label>
+                <div class="select">
+                    <select>
+                        <div class="option">
+                            <option class="empresa" value="empresa">Empresa de apoio ao PCD</option>
+                            <option value="deficiente">Pessoa com deficiência</option>
+                            <option value="ajudar">Quero ajudar e/ou visualizar</option>
+                        </div>
+                    </select>
+                </div>
+            </div>
+    
+            <div class="aceitar">
+                <div class="box_aceitar">
+                    <input class="checkbox" type="checkbox">
+                    <label class="txt_checkbox">Ao selecionar o botão ao lado, <span>você concorda</span> em respeitar as regras de acessibilidade e em respeitar todas as pessoas e público desse canal.</label>
+                </div>
+            </div>
+    
+            <button type="submit"><a href="./censoLogado.html">CADASTRAR</a></button>
+        </div>
+    </main>
+</body>
+</html>

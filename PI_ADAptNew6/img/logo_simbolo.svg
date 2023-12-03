@@ -1,0 +1,16 @@
+<svg width="865" height="865" viewBox="0 0 865 865" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="20" width="845" height="865" fill="white"/>
+<circle cx="432" cy="429" r="309" stroke="black" stroke-width="22"/>
+<path d="M191 347C191 377.376 166.376 402 136 402C105.624 402 81 377.376 81 347C81 316.624 105.624 292 136 292C166.376 292 191 316.624 191 347Z" fill="#E77575" stroke="white" stroke-width="20"/>
+<path d="M320 691C320 721.376 295.376 746 265 746C234.624 746 210 721.376 210 691C210 660.624 234.624 636 265 636C295.376 636 320 660.624 320 691Z" fill="#E77575" stroke="white" stroke-width="20"/>
+<path d="M650 691C650 721.376 625.376 746 595 746C564.624 746 540 721.376 540 691C540 660.624 564.624 636 595 636C625.376 636 650 660.624 650 691Z" fill="#E77575" stroke="white" stroke-width="20"/>
+<path d="M784 347C784 377.376 759.376 402 729 402C698.624 402 674 377.376 674 347C674 316.624 698.624 292 729 292C759.376 292 784 316.624 784 347Z" fill="#E77575" stroke="white" stroke-width="20"/>
+<circle cx="595" cy="691" r="37" fill="#FF4D00" stroke="black" stroke-width="20"/>
+<path d="M746.001 333.5C746.001 403.915 758.852 353.315 736.363 365.479C648.5 413 538 452.5 427.004 448.242C331 455.5 193 410.5 117.645 365.479C113.415 338.873 154.501 395.415 154.5 325L165.5 333.5C165.5 398.94 63.2514 305.941 139.502 352.214C233.5 396.5 319.17 425.5 427.004 425.5C534.838 425.5 606.5 400.5 699.504 358.742C775.754 312.469 736.363 375.94 736.363 310.5L746.001 333.5Z" fill="black"/>
+<circle cx="136" cy="347" r="37" fill="#0EAFF4" stroke="black" stroke-width="20"/>
+<circle cx="729" cy="347" r="37" fill="#4EFF95" stroke="black" stroke-width="20"/>
+<rect x="419.514" y="436.319" width="21" height="261.003" transform="rotate(33.4431 419.514 436.319)" fill="black"/>
+<rect x="419.678" y="447.888" width="21" height="261.003" transform="rotate(-33.44 419.678 447.888)" fill="black"/>
+<circle cx="265" cy="691" r="37" fill="#FFC700" stroke="black" stroke-width="20"/>
+<circle cx="429" cy="285" r="79" fill="#D065E1" stroke="black" stroke-width="20"/>
+</svg>
